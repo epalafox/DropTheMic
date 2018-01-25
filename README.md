@@ -1,4 +1,4 @@
-# Project Title
+# Drop the Mic API ASP.Net Project
 
 Simple API Project that help people to learn how to make their own API
 
